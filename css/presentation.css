@@ -1,3 +1,39 @@
-body{
-    background-color: red;
-}
+body {
+      font-family: Verdana;
+      background-color:#28bdd6;
+      text-align: center;
+     }
+
+div.Voyages {
+             display: flex;
+             flex-direction: column;
+            }
+
+div.titre {
+           /*text-align: center;*/
+           font-size: 35px;
+          }    
+          
+div.titre, .Voyage1, .Voyage2 {
+                               margin-bottom: 50px;
+                              }    
+
+div.Nom1, .Nom2, .Nom3 {
+                 margin-bottom: 5px;
+                }  
+                                            
+
+img.Image1 {
+             width: 550px;
+             height: 366px;
+             margin-bottom: 5px;
+            }  
+
+img.Image2, .Image3 {
+                       width: 600px;
+                       height: 336px;
+                       margin-bottom: 5px;
+                      }
+
+                      
+                    
