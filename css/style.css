@@ -26,6 +26,7 @@ header {
   align-items: center;
   padding: 30px 10%;
   background-color: #01191e;
+  background-color: #01191e;
 }
 
 .logo {
@@ -46,8 +47,7 @@ header {
   color: white;
 }
 .nav_link li a:hover {
-  color: #28bdd6;
-  text-shadow: 1px 0 10px;
+  color: yellow;
 }
 
 .nav_link li:hover {
@@ -61,48 +61,56 @@ button {
   border: none;
   cursor: pointer;
   transition: all 0.3s ease 0s;
-  background-color: #28bdd6;
-  color: white;
-}
-
-button:hover {
-  background-color: #28bdd6;
-  opacity: 0.5;
+  background-color: #25bdd6;
   color: black;
 }
 
-#main-image {
-  height: 580px;
-  background: url("/images/main.jpg") center;
-  background-repeat: no-repeat;
+button:hover {
+  background-color: rgba(121, 126, 29, 0.763);
+  color: black;
 }
 
-#main-image h2 {
-  font-weight: normal;
-  text-transform: uppercase;
-  text-align: center;
-  padding: 150px 0 40px 0;
-  margin-bottom: 20px;
-  text-shadow: 1px 0 4px;
-}
-#main-image button {
-  text-align: center;
-  margin-left: 45%;
-  background-color: #01191e;
+/*------------REALISATION---------------------------------------- */
 
-}
 
-#main-image button:hover {
-  transform: scale(1.3);
-  background-color: black;
-  color: #28bdd6;
-}
 
-.footer {
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  background-color: #01191e;
-  color: white;
-  text-align: center;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+/* --------------PRESENTATION--------------------*/
+
+
+
+
+
+
+
+
+
+/* ------FORMULAIRE------------------------ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* -------------------EQUIPE----------------------------------- */
